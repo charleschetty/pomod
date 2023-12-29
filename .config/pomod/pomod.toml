@@ -1,0 +1,17 @@
+# Txt, Tui, None
+display = "None"
+cache = true
+
+[time]
+hours = 0
+minutes = 0
+seconds = 10
+
+[audio]
+play = true
+path = "/home/charles/.config/pomod/notify1.mp3"
+time = 3 # Music duration (in seconds)
+
+[notify]
+notify = true 
+message = "it is time to take a break"
